@@ -7,8 +7,6 @@ sites:
     url: https://www.lukecolvin.me
   - name: CCO Lab
     url: https://lab.lukeslabs.xyz
-  - name: Unraid
-    url: https://cyberlab.lukeslabs.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
