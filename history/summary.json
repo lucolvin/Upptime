@@ -22,17 +22,19 @@
     "url": "https://lab.lukeslabs.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/lab.lukeslabs.xyz.ico",
     "slug": "cco-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 526,
-    "timeWeek": 440,
-    "timeMonth": 421,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 412,
+    "timeDay": 322,
+    "timeWeek": 400,
+    "timeMonth": 412,
+    "timeYear": 412,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   }
 ]
