@@ -4,7 +4,7 @@
     "url": "https://www.lukecolvin.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.lukecolvin.me.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 278,
     "timeMonth": 299,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "CCO Lab",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lab.lukeslabs.xyz.ico",
     "slug": "cco-lab",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.08%",
     "uptimeMonth": "96.57%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.73%",
     "time": 397,
     "timeDay": 229,
     "timeWeek": 341,
